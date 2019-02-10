@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => '',
-	'password' => '',
-	'database' => '',
+	'hostname' => 'ipsd.ir:3306',
+	'username' => 'ipsdir_turkmedia',
+	'password' => ')G$FPjD5*4{c',
+	'database' => 'ipsdir_turkmedia',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
