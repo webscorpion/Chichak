@@ -1,6 +1,6 @@
 <?php
 
     $this->load->helper(array('path'));
-    $this->load->file('administrator/templates/admin/index.php');
+    $this->load->file('admin/index.php');
 
 ?>
