@@ -1,4 +1,4 @@
-ZX<?php
+<?php
 /**
  * CodeIgniter
  *
